@@ -7,14 +7,18 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🌱 Currently learning: `React`, `JavaScript`, `Advanced DSA`
-- 💼 Building: **Real-Time Bus Tracking System** with Java + Spring Boot + SQL
-- 📫 Reach me at: `harshitalakhotiya@gmail.com`
-- 📺 YouTube: [YourTastyTrek](https://www.youtube.com/@yourtastytrek)
-- 🔭 Passionate about making tech simpler for everyone ✨
-- 🧩 Random Quote: *“Code is like humor. When you have to explain it, it’s bad.”*
+Hi! I'm Harshita Lakhotiya — a learner who enjoys exploring how things work in tech and building small but meaningful projects.
+
+- 🌱 Currently learning: **React**, **JavaScript**, and **Advanced DSA**
+- 💼 Working on: **Yatrabot** shhh will be live soon
+- 📫 Reach me: **harshitalakhotiya@gmail.com**
+- 📺 YouTube: [YourTastyTrek](https://youtube.com/@YourTastyTrek)
+- 🔍 Trying to improve every day and understand things better, one step at a time
+- 🧩 Quote I like: _“Code is like humor. When you have to explain it, it’s bad.”_
+
+Still learning, still growing — and always curious! 😊
 
 ---
 
